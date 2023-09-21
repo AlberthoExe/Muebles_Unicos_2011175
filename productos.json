@@ -16,5 +16,23 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Libreria",
+        "descripcion": "Una hermosa libreria.",
+        "imagen": "images/libreria.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Credenza",
+        "descripcion": "Una hermosa credenza.",
+        "imagen": "images/credenza.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Tocador",
+        "descripcion": "Un hermoso tocador.",
+        "imagen": "images/tocador.jpg"
     }
 ]
